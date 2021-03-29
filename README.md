@@ -4,4 +4,5 @@
 - 📫 How to reach me: [hello@spike.wiki](mailto:hello@spike.wiki)
 
 [![Spike](https://github-readme-stackoverflow.vercel.app/?userID=13625298&layout=compact)](https://stackoverflow.com/users/13625298/spikie)
+[![Spike's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoymouscoder)](https://github.com/anoymouscoder/github-readme-stats)
 
